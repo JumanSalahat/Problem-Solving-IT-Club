@@ -1,3 +1,4 @@
+// Mean = Average = (مجموع الأعداد) ÷ (عددها)
 #include <bits/stdc++.h>
 using namespace std;
 double Sum (int n, double a[])
