@@ -16,7 +16,7 @@ int main()
     cin>>n;
     double a[n];
     double output=Sum(n,a);
-    cout << fixed << setprecision(6)<<output;    // fixed → طريقة العرض ثابتة على شكل رقم عشري كامل ،مش الطريقة العلمية
+    cout << fixed << setprecision(6)<<output;    // fixed → طريقة العرض ثابتة على شكل رقم عشري كامل ، مش الطريقة العلمية
                                                 // setprecision(6) → يطبع دائمًا 6 منازل بعد الفاصلة.
     return 0;
 }
