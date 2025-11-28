@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    string n;
+    string n; // لأنّ قيمة -> n -> قد تصل إلى 10 قوة 100
     cin>>n;
     cout<<0<<' '<<0;
     return 0;
